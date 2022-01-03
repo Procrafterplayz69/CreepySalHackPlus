@@ -40,3 +40,12 @@ Check the [release page](https://github.com/CreepyOrb924/creepy-salhack/releases
 Creepy salhack project has been continued by Procrafterplayz
 
 Porcrafterplayz added some features to the client such us offhand that is in the original salhack 
+
+The keybind is rshift
+
+
+## build
+
+gradlew setupdecompworkspace
+
+gradlew build
